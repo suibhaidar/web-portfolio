@@ -111,3 +111,37 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+
+.section-four{
+    justify-content: center;
+}
+
+.section-four-description{
+    text-align: center;
+    
+}
+
+.section-image{
+    border-radius: 48px;
+    width: 840px;
+    height: 364px;
+    margin: 0px 150px 71px;
+}
+.section-four-title{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    
+}
+.btn-section{
+    background-color: #4E47FF;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    color: white;border: none;
+    margin-left: 472.5px;
+
+    
+
+}
