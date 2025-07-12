@@ -99,7 +99,7 @@ nav{
     text-align: center;
     justify-content: center;
     background-color: rgba(78, 71, 255, 0.1);
-    padding: 50px 142px;
+    padding-top: 100px;
 }
 .section-two-had{
     font-weight: bold;
@@ -110,6 +110,7 @@ nav{
 main{
     max-width: 1140px;
     margin: 0 auto;
+    background-color: #D6DDED;
 }
 
 .section-four{
@@ -144,4 +145,48 @@ main{
 
     
 
+}
+.lust-section{
+    display: flex;
+    
+    
+}
+.column-primary{
+    
+    font-size: 97px;
+    font-weight: bold;
+}
+.column-two{
+    padding: 71px 0px;
+}
+form input[type="email"], form input[type="text"], form input[type="button"], form textarea{
+    height: 50px;
+    width: 497px;
+    border-radius: 10px;
+    display: block;
+    
+}
+.footer-primary{
+    display: flex;
+    gap: 48px;
+    justify-content: center;
+}
+footer{
+    
+}
+.footer-title{
+    text-align: center;
+    padding-bottom: 0px;
+    font-weight: bold;
+    font-size: 50px;
+}
+.footer-description{
+    text-align: center;
+}
+footer ul li{
+    list-style: none;
+
+}
+footer ul a{
+    text-decoration: none;
 }
