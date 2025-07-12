@@ -63,11 +63,9 @@ nav{
 .section-primary{
     display: flex;
     justify-content: space-between;
-    
     gap: 220px;
-    max-width: 1140px;
-    margin: 162px;
-
+    margin: 162px 0px 70px 0px;
+    
 }
 .small-image{
     width: 403px;
@@ -82,4 +80,34 @@ nav{
 .section-description{
     font-size: 24px;
     color: #252432;
+}
+/* section-resume */
+.section-resume{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+    
+}
+.section-two-primary{
+    display: flex;
+    justify-content: center;
+    
+    gap: 158px;
+    
+}
+.section-two{
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(78, 71, 255, 0.1);
+    padding: 50px 142px;
+}
+.section-two-had{
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+    
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
 }
